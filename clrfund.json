@@ -1,0 +1,17 @@
+{
+    "oso_slug": "clr-fund",
+    "project_name": "Clr.fund",
+    "project_id": "NaN",
+    "project_url": "https://clr.fund/#/projects",
+    "project_address": "0xFcC41c4614bD464bA28ad96f93aAdaA7bA6c8680",
+    "funder_name": "Philanthropic individuals and organizations contribute to the matching pool",
+    "funder_round_name": "Clr.fund",
+    "funder_round_type": "Quadratic Funding Round",
+    "funder_address": "0xa6439Ca0FCbA1d0F80df0bE6A17220feD9c9038a",
+    "funding_amount": "87140",
+    "funding_currency": "DAI",
+    "funding_network": "Arbitrum",
+    "funding_date": "Jun 26, 2023 – Jul 18, 2023"
+  }
+
+  
